@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180"><g fill="#3b82f6" stroke="#2563eb" stroke-width="1.5"><path id="blade" d="M90 90 C68 59 65 9 99 3 C143 -5 140 53 90 90Z"/><use href="#blade" transform="rotate(120 90 90)"/><use href="#blade" transform="rotate(240 90 90)"/></g></svg>
